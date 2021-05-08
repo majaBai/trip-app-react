@@ -1,8 +1,16 @@
+/* @import '~antd/dist/antd.css'; */
+
 .App {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
+  /* overflow: hidden; */
+  font-family: Microsoft YaHei "Helvetica Neue", Helvetica, sans-serif;
+  color:rgb(51, 51, 51)
+  /* background-color: antiquewhite; */
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +43,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

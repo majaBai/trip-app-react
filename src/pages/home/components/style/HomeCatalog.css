@@ -1,0 +1,33 @@
+.home-catalog{
+    border-bottom: solid 0.6rem #eee;
+}
+
+.catalog-ul{
+    display: flex;
+    justify-content: space-around;
+    padding:0;
+    margin: 0;
+    margin-top: 0.5rem;
+}
+
+li{
+    list-style: none;
+}
+.catalog-img{
+    width: 35px;
+    margin-top: 0.2rem;
+}
+.ads-box{
+    display: flex;
+    padding: 0 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.8rem;
+}
+.ads-img{
+    width: 100%;
+    border-radius: 0.4rem;
+}
+.ads-li{
+    width: calc(50% - 10px);
+    margin: 0 5px;
+}

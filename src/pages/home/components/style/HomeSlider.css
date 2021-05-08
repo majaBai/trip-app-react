@@ -1,0 +1,10 @@
+
+.swiper-img{
+    height: 125px;
+    width:100%
+}
+.swiper-pagination-bullet-active{
+    background:#fff;
+    opacity: 1;
+}
+
